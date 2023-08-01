@@ -27,7 +27,16 @@
 <h2>you can add noise and show interploation  </h2>
 <img src="images/upload_5.jpg " >
   
+  <br><br>
+
+# Team members 
   
+| N             | Name          |
+| ------------- | ------------- |
+| 1             | Osamah Faisal |
+| 2             | Shuaib Abdulsalam |
+| 3             |  Mohamed Mustafa  |
+| 4             |  Mohab Mohamed  |
 
 
 
