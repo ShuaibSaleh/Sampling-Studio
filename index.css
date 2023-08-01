@@ -1,0 +1,82 @@
+body {
+    background-image: url("EnterPage.webp");
+    min-height: 100vh;
+    color: beige;    
+
+}
+
+
+
+.pageHeader{
+    width: 35%;
+    margin-left: 30%;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 25px;
+
+    
+}
+
+/*  praga */
+
+
+.row{
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.column{
+    flex-basis: 25%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+
+    padding: 20px 12px;
+    width: 20%;
+    text-align: center;
+    box-sizing: border-box;
+    transition: 0.5s;
+    line-height: 30px;
+    background-color: rgba(54, 43, 43, 0.326);
+    box-shadow: 10px 5px rgba(30, 30, 74, 0.263); 
+}
+
+
+.column:hover{
+    background-color: rgba(25, 119, 202, 0.281);
+    box-shadow: 10px 5px rgba(165, 165, 182, 0.263); 
+
+
+}
+
+
+
+
+
+.letsStart{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+   
+}
+
+
+    
+.letsStartButton{
+    width: 50%;
+    height: 25%;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    color: rgb(251, 254, 250);
+    background:rgba(108, 106, 109, 0.529); ;
+}
+.letsStartButton:hover{
+    background: rgba(4, 128, 4, 0.607);
+}
